@@ -1,0 +1,3 @@
+Hello from me.
+I'm learning git to make money.
+Something new.
